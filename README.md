@@ -1,1 +1,3 @@
-# citi-bike
+# Citi Bike Visualization
+
+This is the repository for the citi bike info visualization assignment done in Information Visualization course at NYU Shanghai.
