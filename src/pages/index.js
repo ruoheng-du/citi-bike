@@ -76,7 +76,7 @@ const Charts = () => {
         <Container >
             <Row>
                 <Col lg={3} md={2}>
-                <h1>InfoVis-rd2910</h1>
+                <h1>Citi Bike-rd2910</h1>
                     <input key="slider" type='range' min='0' max='11' value={month} step='1' onChange={changeHandler}/>
                     <input key="monthText" type="text" value={MONTH[month]} readOnly/>
                 </Col>
